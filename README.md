@@ -21,7 +21,7 @@ Open your terminal and run the following command to clone the repository:
 
 ### 2. Navigate to the Project Directory
 
-```cd Portfolio-Tracker-Frontend```
+```cd Portfolio-Tracker```
 
 
 ### 3. Install Dependencies
