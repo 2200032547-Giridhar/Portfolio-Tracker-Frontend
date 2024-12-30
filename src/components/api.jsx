@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = "joyful-consideration-production.up.railway.app/api/stocks";
+const API_URL = "https://joyful-consideration-production.up.railway.app/api/stocks";
 
 export const fetchStocks = () => axios.get(API_URL);
 export const addStock = (stock) => axios.post(API_URL, stock);
